@@ -1,10 +1,10 @@
-.controller.custom {
+.controller.custom,
+.custom.disconnected{
     background: url("https://raw.githubusercontent.com/TheSwerik/GamePadViewerCss/main/ps4.minimal.svg");
     height: 320px;
     width: 290px;
 }
 
-.custom.disconnected,
 .custom.disconnected div {
     display: none;
 }
